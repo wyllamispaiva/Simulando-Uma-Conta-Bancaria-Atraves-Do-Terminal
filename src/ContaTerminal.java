@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import javax.print.ServiceUI;
+
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
